@@ -27,7 +27,12 @@
 
 ## Sin nombre
 
-- Pagina web donde se ofrecen servicios de cualquier tipo, ofrezca presupuesto, y se puedan comentar sobre la calidad del mismo. Tambien que los usuarios puedan llevar el control del registro de ventas.
+- Nuestra aplicación web estará destinada a la compra y venta de distintos servicios; lo que buscamos es que el usuario pueda obtener un servicio de calidad y desde la comodidad de su hogar.  
+
+- Serán ofrecidos por las personas que se registren como vendedores, los cuales para acceder a la plataforma deben aceptar ciertas condiciones en cuanto a la seguridad del comprador y vendedor para validar la identidad y poder trabajar de forma segura. 
+
+- Como Comprador, solo ganas la capacidad de poder llevar.
+
   > - Ibrahim Zarraga [JetPi](https://github.com/JetPi)
   > - Oriana Calderon [oscq12](https://github.com/oscq12)
   > - Victor Seidman [vseidman](https://github.com/vseidman)
