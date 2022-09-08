@@ -1,48 +1,84 @@
 # Proyectos finales cohorte 34 - Caracas 🎉
 
-## TalleresVven.com
+- [Talleresven.com](#talleresvencom)
+- [Grupo-2](#sin-nombre)
+- [Youngstars.com](#youngstarscom)
+- [Serv-u.com](#serv-ucom)
+- [Grupo-5](#sin-nombre-1)
 
-- Aplicación web de talleres automotrices en donde con las especificaciones del carro se pueden pedir citas y cotizaciones aproximadas para cualquier reparacion en general, los talleres deben registrarse en la plataforma y cumplir con los requerimientos necesarios, tambien se haran promociones, y se le agregara un ranking u strike para evaluar a los talleres.
-  > - Orlando Oroporte [OrlandoOroporte](https://github.com/OrlandoOroporte)
-  > - Maicol Argumedo [margumedo](https://github.com/margumedo)
+## Talleresven.com
+
+Aplicación web de talleres automotrices en donde con las especificaciones del carro se pueden pedir citas y cotizaciones aproximadas para cualquier reparacion en general, los talleres deben registrarse en la plataforma y cumplir con los requerimientos necesarios, tambien se haran promociones, y se le agregara un ranking u strike para evaluar a los talleres.
+
+### Github
+
+> - Orlando Oroporte [OrlandoOroporte](https://github.com/OrlandoOroporte)
+> - Maicol Argumedo [margumedo](https://github.com/margumedo)
+
+- [Repositorio](https://github.com/OrlandoOroporte/talleresven.com)
+- [Proyecto](#)
 
 ---
 
 ## Sin nombre
 
-- Aplicación Web donde se lleve el control de la distribucion de medicinas, donde se muestre el catalogo, llevar el control de las ventas y los clientes puedan hacer su pedido de la web. Solo se hacen transacciones a farmacias ya que son ventas al mayor.
-  > - Antonio Marin [Antmar10](https://github.com/Antmar10)
-  > - Fernando Monnot [fermonnot](https://github.com/fermonnot)
+Aplicación Web donde se lleve el control de la distribucion de medicinas, donde se muestre el catalogo, llevar el control de las ventas y los clientes puedan hacer su pedido de la web. Solo se hacen transacciones a farmacias ya que son ventas al mayor.
+
+### Github
+
+> - Antonio Marin [Antmar10](https://github.com/Antmar10)
+> - Fernando Monnot [fermonnot](https://github.com/fermonnot)
+
+- [Repositorio](https://github.com/fermonnot/my-project)
+- [Proyecto](#)
 
 ---
 
 ## YoungStars.com
 
-- Aplicacion web enfocada en futuros profesionales del deporte, especificamente para beibolistas en donde publiquen sus videos, estadisticas para que los casatalentos o scouts tengan acceso a sus perfiles para contactarlos. Planes futuros contactar connuniversidades en el mundo.
-  > - Gabriel Ramos [Ramos241](https://github.com/Ramos241)
-  > - Carlos Gomez [carlossgomz](https://github.com/carlossgomz)
-  > - Diego Gerig [JuanGerig](https://github.com/JuanGerig)
+Aplicacion web enfocada en futuros profesionales del deporte, especificamente para beibolistas en donde publiquen sus videos, estadisticas para que los casatalentos o scouts tengan acceso a sus perfiles para contactarlos. Planes futuros contactar connuniversidades en el mundo.
+
+### Github
+
+> - Gabriel Ramos [Ramos241](https://github.com/Ramos241)
+> - Carlos Gomez [carlossgomz](https://github.com/carlossgomz)
+> - Diego Gerig [JuanGerig](https://github.com/JuanGerig)
+
+- [Repositorio](https://github.com/Ramos241/Young-star)
+- [Proyecto]()
 
 ---
 
 ## Serv-U.com
 
-- Red Social enfocada en artistas, postear artes, fotos, referencias compartir, parecido a pinterest. Educativa, que le puedas poner un link. Y se puedan monetizar los artes y las fotos con pasarelas de pagoPágina web sobre recetas de comidas donde se puedan compartir recetas, comentar sobres las comidas y una sección donde se puedan conseguir recetas partiendo de los ingredientes en casa.
-  > - Ibrahim Zarraga [JetPi](https://github.com/JetPi)
-  > - Oriana Calderon [oscq12](https://github.com/oscq12)
-  > - Victor Seidman [vseidman](https://github.com/vseidman)
+Red Social enfocada en artistas, postear artes, fotos, referencias compartir, parecido a pinterest. Educativa, que le puedas poner un link. Y se puedan monetizar los artes y las fotos con pasarelas de pagoPágina web sobre recetas de comidas donde se puedan compartir recetas, comentar sobres las comidas y una sección donde se puedan conseguir recetas partiendo de los ingredientes en casa.
+
+### Github
+
+> - Ibrahim Zarraga [JetPi](https://github.com/JetPi)
+> - Oriana Calderon [oscq12](https://github.com/oscq12)
+> - Victor Seidman [vseidman](https://github.com/vseidman)
+
+- [Repositorio](https://github.com/JetPi/serv-u)
+- [Proyecto](https://github.com/users/JetPi/projects/1)
 
 ---
 
 ## Sin nombre
 
-- Página web sobre recetas de comidas donde se puedan compartir recetas, comentar sobres las comidas y una sección donde se puedan conseguir recetas partiendo de los ingredientes en casa.
-  > - Carlos Carpentieri [carluchocp](https://github.com/carluchocp)
-  > - Daniela Gimenez [danielagimeneez](https://github.com/danielagimeneez)
+Página web sobre recetas de comidas donde se puedan compartir recetas, comentar sobres las comidas y una sección donde se puedan conseguir recetas partiendo de los ingredientes en casa.
+
+### Github
+
+> - Carlos Carpentieri [carluchocp](https://github.com/carluchocp)
+> - Daniela Gimenez [danielagimeneez](https://github.com/danielagimeneez)
+
+- [Repositorio](https://github.com/carluchocp/final_project)
+- [Proyecto](#)
 
 ---
 
-# para otra ocasión
+# Ideas para otra ocasión
 
 ## Red Social
 
