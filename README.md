@@ -26,8 +26,11 @@
 ---
 
 ## Serv-U.com
+- Nuestra aplicación web estará destinada a la compra y venta de distintos servicios; lo que buscamos es que el usuario pueda obtener un servicio de calidad y desde la comodidad de su hogar.  
 
-- Red Social enfocada en artistas, postear artes, fotos, referencias compartir, parecido a pinterest. Educativa, que le puedas poner un link. Y se puedan monetizar los artes y las fotos con pasarelas de pagoPágina web sobre recetas de comidas donde se puedan compartir recetas, comentar sobres las comidas y una sección donde se puedan conseguir recetas partiendo de los ingredientes en casa.
+- Serán ofrecidos por las personas que se registren como vendedores, los cuales para acceder a la plataforma deben aceptar ciertas condiciones en cuanto a la seguridad del comprador y vendedor para validar la identidad y poder trabajar de forma segura. 
+
+- Como Comprador, solo ganas la capacidad de poder llevar.
   > - Ibrahim Zarraga [JetPi](https://github.com/JetPi)
   > - Oriana Calderon [oscq12](https://github.com/oscq12)
   > - Victor Seidman [vseidman](https://github.com/vseidman)
