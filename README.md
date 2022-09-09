@@ -5,7 +5,7 @@
 - Aplicación web de talleres automotrices en donde con las especificaciones del carro se pueden pedir citas y cotizaciones aproximadas para cualquier reparacion en general, los talleres deben registrarse en la plataforma y cumplir con los requerimientos necesarios, tambien se haran promociones, y se le agregara un ranking u strike para evaluar a los talleres.
   > - Orlando Oroporte [OrlandoOroporte](https://github.com/OrlandoOroporte)
   > - Maicol Argumedo [margumedo](https://github.com/margumedo)
-
+- ctrl + [repositorio](https://github.com/OrlandoOroporte/talleresven)
 ---
 
 ## Sin nombre
@@ -35,6 +35,7 @@
   > - Oriana Calderon [oscq12](https://github.com/oscq12)
   > - Victor Seidman [vseidman](https://github.com/vseidman)
 
+ctrl + [repositorio](https://github.com/JetPi/serv-u)
 ---
 
 ## Sin nombre
