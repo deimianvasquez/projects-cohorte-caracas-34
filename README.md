@@ -15,9 +15,7 @@ Aplicación web de talleres automotrices en donde con las especificaciones del c
 > - Orlando Oroporte [OrlandoOroporte](https://github.com/OrlandoOroporte)
 > - Maicol Argumedo [margumedo](https://github.com/margumedo)
 
-[Repositorio](https://github.com/OrlandoOroporte/talleresven.
-
-com)
+[Repositorio](https://github.com/OrlandoOroporte/talleresven.com)
 [Proyecto](#)
 #
 ---
