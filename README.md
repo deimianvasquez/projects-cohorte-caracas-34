@@ -22,7 +22,7 @@ Aplicación web de talleres automotrices en donde con las especificaciones del c
 
 ---
 
-## Sin nombre
+## Districlick
 
 Aplicación Web donde se lleve el control de la distribucion de medicinas, donde se muestre el catalogo, llevar el control de las ventas y los clientes puedan hacer su pedido de la web. Solo se hacen transacciones a farmacias ya que son ventas al mayor.
 
