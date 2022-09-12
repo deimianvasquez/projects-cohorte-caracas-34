@@ -16,8 +16,10 @@ Aplicación web de talleres automotrices en donde con las especificaciones del c
 > - Maicol Argumedo [margumedo](https://github.com/margumedo)
 
 [Repositorio](https://github.com/OrlandoOroporte/talleresven.com)
-[Proyecto](#)
-#
+
+
+[Proyecto](https://github.com/users/OrlandoOroporte/projects/3)
+
 ---
 
 ## Sin nombre
@@ -31,7 +33,7 @@ Aplicación Web donde se lleve el control de la distribucion de medicinas, donde
 
 [Repositorio](https://github.com/fermonnot/my-project)
 
-[Proyecto](#)
+[Proyecto](https://github.com/users/fermonnot/projects/1/views/1)
 
 ---
 
@@ -47,7 +49,7 @@ Aplicacion web enfocada en futuros profesionales del deporte, especificamente pa
 
 [Repositorio](https://github.com/Ramos241/Young-star)
 
-[Proyecto]()
+[Proyecto](https://github.com/users/Ramos241/projects/1)
 
 ---
 
@@ -68,8 +70,6 @@ Como Comprador, solo ganas la capacidad de poder llevar.
 [Repositorio](https://github.com/JetPi/serv-u)
 
 [Proyecto](https://github.com/users/JetPi/projects/1)
-
-ctrl + [repositorio](https://github.com/JetPi/serv-u)
 ---
 
 ## Sin nombre
@@ -83,7 +83,7 @@ Página web sobre recetas de comidas donde se puedan compartir recetas, comentar
 
 [Repositorio](https://github.com/carluchocp/final_project)
 
-[Proyecto](#)
+[Proyecto](https://github.com/users/carluchocp/projects/1/views/1)
 
 ---
 
